@@ -40,7 +40,7 @@ The plugin has one filter that allows you to enforce one sticky post at a time. 
 
 == Screenshots ==
 
-1. Quick Sticky in the WordPress admin.
+1. Quick Sticky added to the posts overview screen.
 
 == Changelog ==
 
