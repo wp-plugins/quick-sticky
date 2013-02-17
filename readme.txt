@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Quick Sticky is a very simple plugin for WordPress that makes it easier to quickly feature or “sticky” posts from the posts overview screen.
+Quick Sticky is a very simple plugin that makes it easier to quickly feature or “sticky” posts from the posts overview screen.
 
 == Description ==
 
