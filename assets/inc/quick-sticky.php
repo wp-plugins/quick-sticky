@@ -132,7 +132,7 @@ function qs_admin_notice() {
 	global $pagenow, $post_type;
 	
 	// added the newsletter ready for sending
-	if ($pagenow == 'edit.php' && $post_type = 'post' && isset($_GET['message'])) {
+	if ($pagenow == 'edit.php' && $post_type == 'post' && isset($_GET['message'])) {
 		switch($_GET['message']) {
 			case 1:
 				echo '<div class="updated"><p>'.__('Your post has been made sticky.', 'qs').'</p></div>';

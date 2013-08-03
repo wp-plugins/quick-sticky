@@ -8,7 +8,7 @@
 	Plugin URI: http://scott.ee/journal/quick-sticky/
 	Description: Quickly toggle your sticky posts from the posts overview screen.
 	Author: Scott Evans
-	Version: 1.1
+	Version: 1.2
 	Author URI: http://scott.ee
 	License: GPLv2 or later
 	License URI: http://www.gnu.org/licenses/gpl-2.0.html

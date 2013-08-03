@@ -3,7 +3,7 @@ Contributors: scottsweb
 Donate link: https://flattr.com/profile/scottsweb/things
 Tags: sticky, posts, post, stick, feature, featured, quick, simple
 Requires at least: 3.0
-Tested up to: 3.6-alpha
+Tested up to: 3.6
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -43,6 +43,9 @@ The plugin has one filter that allows you to enforce one sticky post at a time. 
 1. Quick Sticky added to the posts overview screen.
 
 == Changelog ==
+
+= 1.2 = 
+* Fix a small bug when searching for posts in wp-admin. Thanks [Phil Middlemass](http://www.leighton.com/)
 
 = 1.1 =
 * Uploaded to WordPress.org
